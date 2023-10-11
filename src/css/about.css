@@ -1,0 +1,22 @@
+#background article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.article-logo,
+.article-description {
+    flex: 1;
+    padding: 20px;
+}
+
+.grid{
+    margin-top: 1em;
+    margin-left: 1em;
+}
+
+#pp {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 10em;
+}
