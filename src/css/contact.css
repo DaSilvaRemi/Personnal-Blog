@@ -11,7 +11,6 @@
 .qrcode-wrapper a {
     display: block;
     margin-top: 1px;
-    
 }
 
 form .form-group {
@@ -33,7 +32,7 @@ textarea {
 }
 
 form button[type="submit"] {
-    background-color: #3ec8c8;
+    background-color: #30475E;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -42,5 +41,5 @@ form button[type="submit"] {
 }
 
 form button[type="submit"]:hover {
-    background-color: #1f9595;
+    background-color: #F05454;
 }

@@ -1,17 +1,15 @@
 footer {
-    background-color: white;
-    color: black;
+    background-color: #F5F5F5;
+    color: #121212;
     padding: 20px;
     text-align: center;
 }
 
-/* Style des liens dans le footer */
 footer a {
-    color: #3ec8c8;
+    color: #30475E;
     text-decoration: none;
 }
 
-/* Style au survol des liens dans le footer */
 footer a:hover {
     text-decoration: underline;
 }
