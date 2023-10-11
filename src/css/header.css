@@ -1,0 +1,49 @@
+/*https://colorhunt.co/palette/f5f5f5f0545430475e121212*/
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    text-align: center;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a, span{
+    display: block;
+    color: rgb(68, 64, 64);
+    text-align: center;
+    padding: 14px 16px;
+}
+
+nav li img{
+    display: block;
+    width: 4rem;
+    padding-top: 3px;
+    padding-right: 16px;
+    padding-left: 10px;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+nav li a:hover:not(.active) {
+    color: #1f9595;
+}
+
+nav .active {
+    color: #3ec8c8;
+}
+
+nav .center{
+    display: inline-block;
+}
+
+nav .end {
+    float: right;
+}

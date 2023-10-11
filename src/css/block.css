@@ -1,0 +1,25 @@
+.block{
+    margin: 0 auto ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 1em;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    max-width: 50%;
+    background-color: #fbf7f7;
+    border-radius: 1em;
+}
+
+.block-center
+{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.block-description {
+    margin-top: 1em;
+}
+
+.block-img {
+    width: 100%;
+    height: 100%;
+}

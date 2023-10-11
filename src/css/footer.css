@@ -1,0 +1,17 @@
+footer {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style des liens dans le footer */
+footer a {
+    color: #3ec8c8;
+    text-decoration: none;
+}
+
+/* Style au survol des liens dans le footer */
+footer a:hover {
+    text-decoration: underline;
+}
